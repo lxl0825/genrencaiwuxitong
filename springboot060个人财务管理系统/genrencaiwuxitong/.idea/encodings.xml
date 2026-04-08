@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-quartz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-quartz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/gerencaiwu-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/genrencaiwuxitong/gerencaiwu/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

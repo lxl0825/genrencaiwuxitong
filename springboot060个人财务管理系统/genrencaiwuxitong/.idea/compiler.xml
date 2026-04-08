@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gerencaiwu-admin" />
+        <module name="gerencaiwu-quartz" />
+        <module name="gerencaiwu-framework" />
+        <module name="gerencaiwu-common" />
+        <module name="gerencaiwu-generator" />
+        <module name="gerencaiwu-system" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gerencaiwu" options="-Xlint:-options" />
+      <module name="gerencaiwu-admin" options="-Xlint:-options" />
+      <module name="gerencaiwu-common" options="-Xlint:-options" />
+      <module name="gerencaiwu-framework" options="-Xlint:-options" />
+      <module name="gerencaiwu-generator" options="-Xlint:-options" />
+      <module name="gerencaiwu-quartz" options="-Xlint:-options" />
+      <module name="gerencaiwu-system" options="-Xlint:-options" />
+    </option>
+  </component>
+</project>
